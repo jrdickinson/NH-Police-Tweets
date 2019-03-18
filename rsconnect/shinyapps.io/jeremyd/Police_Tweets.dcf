@@ -1,0 +1,13 @@
+name: Police_Tweets
+title: Police_Tweets
+username:
+account: jeremyd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 795707
+bundleId: 1946248
+url: https://jeremyd.shinyapps.io/Police_Tweets/
+when: 1552864288.51278
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: read_tweets.R
