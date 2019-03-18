@@ -3,7 +3,7 @@ NH Police Tweets
 
 #### This project builds a shiny app that displays the positive/negative and emotional sentiment of New Hampshire police tweets using wordclouds, radar plots, and other visuals.
 
-### You can check out the app at <https://github.com/jrdickinson/NH-Police-Tweets/projects>
+### You can check out the app at <https://jeremyd.shinyapps.io/Police_Tweets/>
 
 ### Instructions for building the shiny app (this requires a twitter developer account):
 
